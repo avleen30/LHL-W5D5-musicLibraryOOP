@@ -100,7 +100,7 @@ class Tracks {
 
 /*======================================*/
 
-// Instanting variables
+// Declaring and defining variables
 const library = new Library("Rock", "Eduardo");
 const playlist1 = new Playlist("Best of Pearl Jam!")
 const track1 = new Tracks("Alive", 5, 180);
